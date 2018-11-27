@@ -49,3 +49,5 @@ c(2,3,4,5,6) ^ 2
 c(2,3,5,7)^c(2,3) #see the output
 
 c(2,3,4,5,6) ^ c(12,3)  ## formers count is the multiple of laters count
+
+c(2,3,5,7) + c(-2,-3,-5, 8)
